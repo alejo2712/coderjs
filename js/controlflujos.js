@@ -24,3 +24,4 @@ for (let i=1; i<=valor2; i++) {
     result = result * 2;
     alert ("El resultado de la ejecucion #" + i + " es " + result);
 }
+`
